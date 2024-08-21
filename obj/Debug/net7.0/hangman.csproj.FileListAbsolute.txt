@@ -1,0 +1,15 @@
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/bin/Debug/net7.0/hangman
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/bin/Debug/net7.0/hangman.deps.json
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/bin/Debug/net7.0/hangman.runtimeconfig.json
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/bin/Debug/net7.0/hangman.dll
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/bin/Debug/net7.0/hangman.pdb
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.csproj.AssemblyReference.cache
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.AssemblyInfoInputs.cache
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.AssemblyInfo.cs
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.csproj.CoreCompileInputs.cache
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.dll
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/refint/hangman.dll
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.pdb
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/hangman.genruntimeconfig.cache
+/Users/aperez91/Florians_projects/hangman/hangman/hangman/obj/Debug/net7.0/ref/hangman.dll
